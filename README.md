@@ -42,7 +42,7 @@ Olá, querida pessoa avaliadora! Espero que este projeto lhe encontre bem. A seg
  
 5. **Configurar o `.env` no flutter na pasta assets/.env:**
    > Lembre-se de obter o seu IP local para preencher <br>
-   > Preencha o arquivo `/front/.env.development` com:
+   > Preencha o arquivo `assets/.env` com:
    ```bash
     host=192.168.1.102:8080
 
